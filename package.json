@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/laolao876/npm_mrlee2024/issues"
   },
-  "homepage": "https://github.com/laolao876/npm_mrlee2024#readme"
+  "homepage": "https://github.com/laolao876/npm_mrlee2024#readme",
+  "publishConfig": {
+  "@laolao876:registry": "https://npm.pkg.github.com"
+}
 }
