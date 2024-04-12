@@ -1,0 +1,25 @@
+{
+  "name": "@laolao876/npm_mrlee2024",
+  "version": "1.0.0",
+  "description": "npm project",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laolao876/npm_mrlee2024.git"
+  },
+  "keywords": [
+    "npm_mrlee2024"
+  ],
+  "author": "mrlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laolao876/npm_mrlee2024/issues"
+  },
+  "homepage": "https://github.com/laolao876/npm_mrlee2024#readme"
+}
