@@ -9,6 +9,10 @@
   "scripts": {
     "test": "exit 0"
   },
+  "dependencies": {
+    "luxon": "~1.0.0",
+    "xmlbuilder": "~9.0.7"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/laolao876/npm_mrlee2024.git"
