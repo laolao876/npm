@@ -19,7 +19,7 @@
   "author": "mrlee",
   "license": "ISC",
   "dependencies": {
-    "xmlbuilder": "~9.0.7"
+    "npm_mrlee2024": "^1.0.1"
   },
   "bugs": {
     "url": "https://github.com/laolao876/npm_mrlee2024/issues"
