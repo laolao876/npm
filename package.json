@@ -1,6 +1,6 @@
 {
   "name": "@laolao876/npm_mrlee2024",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "npm project",
   "main": "index.js",
   "directories": {
@@ -19,8 +19,8 @@
   "author": "mrlee",
   "license": "ISC",
   "dependencies": {
-    "@laolao876/npm_mrlee2024": "^1.0.1",
-    "npm_mrlee2024": "^1.0.1"
+    "@laolao876/npm_mrlee2024": "^1.0.0",
+    "npm_mrlee2024": "^1.0.0"
   },
   "bugs": {
     "url": "https://github.com/laolao876/npm_mrlee2024/issues"
