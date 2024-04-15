@@ -19,7 +19,7 @@
   "author": "mrlee",
   "license": "ISC",
   "dependencies": {
-    "@laolao876/npm_mrlee2024": "^1.0.0",
+    "@laolao876/npm_mrlee2024": "^1.0.1",
     "npm_mrlee2024": "^1.0.1"
   },
   "bugs": {
